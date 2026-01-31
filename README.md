@@ -30,7 +30,7 @@ A **star schema** data model was implemented consisting of:
 Relationships are built using AssetID, AssetTypeID, RegionID, and Date keys to enable efficient filtering and slicing.
 
 ---
-
+![Asset Analysis Dashboard](Screenshots/dashboard.png)
 ## 🎯 Key Features & Insights
 
 ### 🔹 Dynamic Slicers
